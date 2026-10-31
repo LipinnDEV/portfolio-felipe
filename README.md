@@ -79,7 +79,7 @@ Depois, abra o endereço que aparecer no terminal (normalmente `http://localhost
 | :-- | :-- |
 | **Portfólio** | [portfolio-felipe-sooty-phi.vercel.app](https://portfolio-felipe-sooty-phi.vercel.app/) |
 | **GitHub** | [@LipinnDEV](https://github.com/LipinnDEV) |
-| **LinkedIn** | [Felipe Mousinho](https://www.linkedin.com/in/felipe-da-silva-mousinho-417a85443) |
+| **LinkedIn** | [Felipe Mousinho](https://www.linkedin.com/in/felipe-da-silva-mousinho-021275419) |
 | **Instagram** | [@fp.mousinho](https://instagram.com/fp.mousinho) |
 | **Localização** | Blumenau, SC |
 
